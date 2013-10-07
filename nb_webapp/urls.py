@@ -7,4 +7,6 @@ urlpatterns = patterns('',
                        url(r'^$', views.IndexView.as_view(), name='index'),
                        #url(r'^register/$', views.RegisterView.as_view(), name='Sign up'),
                        url(r'^register/$', views.register, name='Register'),
+                       url(r'^hello.html', views.hello, name='hello'),
+                       url(r'^informationFormFriends.html', views.flowingInfo, name='flowingInfo'),
 )

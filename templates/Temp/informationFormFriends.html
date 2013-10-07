@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Personal Homepage</title>
+</head>
+<body>
+friends lastest information:<br>
+<ul>
+    {% for key,value in FollowingDict.items %}
+         {{ key }}-name:{{ value.last_name }}-{{ value.first_name }}:<br>
+         {% for k,v in CardsDict.items%}
+             {% ifequal key k %}
+                {% for card in v %}
+                   title: {{ card.title }}--Containt:{{ card.contents }}
+                   <br>
+                 {% endfor %}
+             {% endifequal %}
+         {% endfor %}
+    {% endfor %}
+</ul>
+</body>
+</html>
