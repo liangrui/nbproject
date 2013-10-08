@@ -3,7 +3,7 @@ from django.shortcuts import render
 from django.http import HttpResponse
 from django.template import RequestContext, loader
 from django.http import HttpResponseRedirect
-from django.shortcuts import get_object_or_404, render
+from django.shortcuts import get_object_or_404
 from django.views import generic
 from nb_webapp.models import *
 #import oauth2 as oauth
@@ -28,7 +28,7 @@ def flowingInfo(request):
         CardsDict[nID] = CardsList#CardsInformation
         FollowingDict[nID] = BasicInfo.objects.get(user_id=nID)#folowingIntomation
 
-    return render(request, 'nb_webapp/informationFormFriends.html',
+    return render(request, 'Temp/informationFormFriends.html',
                   {'CardsDict': CardsDict,'FollowingDict': FollowingDict,
                    'FollowingIDList': FollowingIDList})
 
@@ -85,6 +85,20 @@ def getLinkedinData(linkedin_id):
     basicInfo.save()
     print content
 
+def loginsignup(request):
+    return render(request, 'Temp/loginsignup.html')
 
+def login(request):
+    return True
 
-
+def signup(request):
+    post_account_email = request.POST['account_email']
+    post_password = request.POST['password']
+    # Check for existence
+    if BasicInfo.objects.filter(account_email = post_account_email).exists():
+        message = "User already exists!"
+    else:
+        q = BasicInfo(account_email = post_account_email, password = post_password)
+        q.save()
+        message = "Sign up successfully!"
+    return HttpResponse(message)
