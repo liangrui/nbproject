@@ -2,27 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6632a8af-5980-45b1-8e3c-6249d24f3f46" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Temp/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Temp/loginsignup.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/nbproject.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/other.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Temp/post.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Temp/signup.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Temp/signup_result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/testrunner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/noahboard/db.sqlite3" afterPath="$PROJECT_DIR$/noahboard/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/noahboard/settings.py" afterPath="$PROJECT_DIR$/noahboard/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nb_webapp/urls.py" afterPath="$PROJECT_DIR$/nb_webapp/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nb_webapp/views.py" afterPath="$PROJECT_DIR$/nb_webapp/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/nbproject.iml" afterPath="$PROJECT_DIR$/.idea/nbproject.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="nbproject.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="6632a8af-5980-45b1-8e3c-6249d24f3f46" time="1381212759221" ignored="false" />
+    <file path="/Dummy.txt" changelist="6632a8af-5980-45b1-8e3c-6249d24f3f46" time="1381240554185" ignored="false" />
     <file path="/login.html" changelist="6632a8af-5980-45b1-8e3c-6249d24f3f46" time="1381205186442" ignored="false" />
     <file path="/post.html" changelist="6632a8af-5980-45b1-8e3c-6249d24f3f46" time="1381204347499" ignored="false" />
     <file path="/settings.py" changelist="6632a8af-5980-45b1-8e3c-6249d24f3f46" time="1381205319867" ignored="false" />
@@ -43,31 +29,33 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="nbproject" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nb_webapp/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="103" column="32" selection-start="3609" selection-end="3609" vertical-scroll-proportion="0.72270745">
-              <folding>
-                <element signature="e#0#44#0" expanded="true" />
-                <element signature="e#380#1206#0" expanded="false" />
-                <element signature="e#1233#1390#0" expanded="false" />
-                <element signature="e#1660#2136#0" expanded="false" />
-              </folding>
+            <state line="32" column="55" selection-start="1206" selection-end="1206" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="signup_result.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/Temp/signup_result.html">
+      <file leaf-file-name="urls.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nb_webapp/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="25" selection-start="104" selection-end="104" vertical-scroll-proportion="-4.071429">
-              <folding />
+            <state line="8" column="76" selection-start="371" selection-end="371" vertical-scroll-proportion="0.39388794">
+              <folding>
+                <element signature="e#28#70#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,17 +83,43 @@
         <option value="$PROJECT_DIR$/templates/Temp/signup.html" />
         <option value="$PROJECT_DIR$/noahboard/settings.py" />
         <option value="$PROJECT_DIR$/templates/Temp/loginsignup.html" />
-        <option value="$PROJECT_DIR$/nb_webapp/urls.py" />
         <option value="$PROJECT_DIR$/templates/Temp/signup_result.html" />
+        <option value="$PROJECT_DIR$/noahboard/db.sqlite3" />
         <option value="$PROJECT_DIR$/nb_webapp/views.py" />
+        <option value="$PROJECT_DIR$/nb_webapp/urls.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
+    <option name="width" value="1296" />
+    <option name="height" value="816" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SqlNoDataSourceInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -148,7 +162,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="nbproject" />
+              <option name="myItemId" value="NB3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -158,25 +172,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="nbproject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Temp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbproject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbproject" />
+              <option name="myItemId" value="NB3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -190,7 +186,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="nbproject" />
+              <option name="myItemId" value="NB3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -204,11 +200,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="nbproject" />
+              <option name="myItemId" value="NB3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="nb_webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nbproject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NB3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -217,10 +227,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.main.proportions" value="0.16583334" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="options.lastSelected" value="settings.github" />
     <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/mysite" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -235,6 +245,26 @@
     </option>
   </component>
   <component name="RunManager" selected="Django server.nbproject">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="nbproject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -350,27 +380,50 @@
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6632a8af-5980-45b1-8e3c-6249d24f3f46" name="Default" comment="" />
       <created>1381183860590</created>
       <updated>1381183860590</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test Data">
+      <created>1381240560862</created>
+      <updated>1381240560862</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1296" height="816" extended-state="1" />
+    <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19349593" sideWeight="0.964939" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25032175" sideWeight="0.67128986" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21707317" sideWeight="0.964939" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3991655" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32871014" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.035060976" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -423,7 +476,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Data" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -437,31 +490,12 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Test Data" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/Gh/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="6" selection-start="77" selection-end="77" vertical-scroll-proportion="0.14592934" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Temp/informationFormFriends.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="7" selection-start="455" selection-end="455" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Temp/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="7" selection-start="563" selection-end="563" vertical-scroll-proportion="-10.857142" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nb_webapp/LinkedInLogIn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="719" selection-end="720" vertical-scroll-proportion="0.7916667" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nb_webapp/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="96" selection-end="96" vertical-scroll-proportion="0.16666667" />
@@ -477,66 +511,110 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/noahboard/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="18" selection-start="89" selection-end="89" vertical-scroll-proportion="0.16666667" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/Temp/signup.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="7" selection-start="81" selection-end="81" vertical-scroll-proportion="0.35514018" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/noahboard/urls.py">
+    <entry file="file://$PROJECT_DIR$/templates/Temp/loginsignup.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.04288939">
+        <state line="1" column="6" selection-start="22" selection-end="22" vertical-scroll-proportion="0.029051987" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/django/core/handlers/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="186" column="0" selection-start="8710" selection-end="8710" vertical-scroll-proportion="8.687383" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Temp/signup_result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="25" selection-start="104" selection-end="104" vertical-scroll-proportion="0.34387353">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nb_webapp/urls.py">
+    <entry file="file://$PROJECT_DIR$/noahboard/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="70" selection-start="758" selection-end="758" vertical-scroll-proportion="0.55756205">
-          <folding>
-            <element signature="e#28#70#0" expanded="true" />
-          </folding>
+        <state line="9" column="12" selection-start="275" selection-end="285" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Temp/loginsignup.html">
+    <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="6" selection-start="22" selection-end="22" vertical-scroll-proportion="0.029051987">
+        <state line="10" column="0" selection-start="252" selection-end="252" vertical-scroll-proportion="0.48603353">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Gh/homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="16" selection-start="32" selection-end="32" vertical-scroll-proportion="0.05263158">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/noahboard/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="22" selection-start="87" selection-end="87" vertical-scroll-proportion="0.19694397">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nb_webapp/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="5" selection-start="608" selection-end="608" vertical-scroll-proportion="0.7685393">
+        <state line="7" column="38" selection-start="194" selection-end="194" vertical-scroll-proportion="0.34465197">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Temp/signup_result.html">
+    <entry file="file://$PROJECT_DIR$/noahboard/db.sqlite3">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="25" selection-start="104" selection-end="104" vertical-scroll-proportion="-4.071429">
+        <state line="79" column="33" selection-start="15735" selection-end="15735" vertical-scroll-proportion="0.51878357">
           <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="uml://DjangoModelDependency/#nbproject">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DjangoModelDependency</ID>
+          <OriginalElement>#nbproject</OriginalElement>
+          <nodes>
+            <node x="" y="">nb_webapp.models.WorkInfo</node>
+            <node x="" y="">nb_webapp.models.RepostInfo</node>
+            <node x="" y="">nb_webapp.models.CommentInfo</node>
+            <node x="" y="">nb_webapp.models.KnowledgeCard</node>
+            <node x="" y="">nb_webapp.models.KnowledgeProfile</node>
+            <node x="" y="">nb_webapp.models.FollowingInfo</node>
+            <node x="" y="">nb_webapp.models.FollowerInfo</node>
+            <node x="" y="">nb_webapp.models.BasicInfo</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.942808452624403" x="387.70819174318586" y="196.9399898778109" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+          </Categories>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nb_webapp/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="32" selection-start="3609" selection-end="3609" vertical-scroll-proportion="0.72270745">
+        <state line="32" column="55" selection-start="1206" selection-end="1206" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nb_webapp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="76" selection-start="371" selection-end="371" vertical-scroll-proportion="0.39388794">
           <folding>
-            <element signature="e#0#44#0" expanded="true" />
-            <element signature="e#380#1206#0" expanded="false" />
-            <element signature="e#1233#1390#0" expanded="false" />
-            <element signature="e#1660#2136#0" expanded="false" />
+            <element signature="e#28#70#0" expanded="true" />
           </folding>
         </state>
       </provider>
