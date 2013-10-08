@@ -32,13 +32,6 @@ def flowingInfo(request):
                   {'CardsDict': CardsDict,'FollowingDict': FollowingDict,
                    'FollowingIDList': FollowingIDList})
 
-
-def hello(request):
-    p = BasicInfo.objects.get(user_id=1);
-    return render(request, 'nb_webapp/liangruiTest.html',
-                  {'name': p.account_email, 'id': p.user_id})
-
-
 class IndexView(generic.ListView):
     template_name = 'nb_webapp/index.html'
 
